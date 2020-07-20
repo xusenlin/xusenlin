@@ -1,4 +1,4 @@
-### 🌱 Hi，我是 xusenlin，目前在写前端，业余也折腾 GOLANG / PHP，热爱开源和新技术。
+### 🌱 Hi，我是 senlin，目前在写前端，业余也折腾 GOLANG / PHP，热爱开源和新技术。
 
 <!--
 **xusenlin/xusenlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
