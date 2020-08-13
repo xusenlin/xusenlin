@@ -1,5 +1,7 @@
 ### 🌱 Hi，我是 senlin，目前在写前端，业余也折腾 GOLANG / PHP，热爱开源和新技术。
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xusenlin)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **xusenlin/xusenlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
