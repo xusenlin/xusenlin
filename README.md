@@ -1,9 +1,8 @@
 ### 🌱 Hi，我是 senlin，目前在写前端，业余也折腾 GOLANG / PHP，热爱开源和新技术。
 
-<div style="display: flex;width:100%;justify-content: space-between;"> 
-<img style="flex: 1;"  src="https://github-readme-stats.vercel.app/api?username=xusenlin&show_icons=true&hide=contribs" />
-<img style="flex: 1;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xusenlin&layout=compact" />
-</div>
+<img style="width:49%;display:inline-block"  src="https://github-readme-stats.vercel.app/api?username=xusenlin&show_icons=true&hide=contribs" />
+<img style="width:49%;display:inline-block"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xusenlin&layout=compact" />
+
 
 <!--
 **xusenlin/xusenlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
