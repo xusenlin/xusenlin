@@ -8,4 +8,16 @@
 -  SenLin: [https://xusenlin.com](https://xusenlin.com)
 -  Languages : golang / javascript / php
 
-![github stats](https://github-readme-stats.vercel.app/api?username=xusenlin&show_icons=true&theme=github_dark)
+
+<div style="display:flex">
+  <img src = "https://github-readme-stats.vercel.app/api?username=xusenlin&count_private=true&show_icons=true&theme=github&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xusenlin&theme=github">
+</div>
+
+<a href="https://github.com/xusenlin/imgo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xusenlin&repo=imgo&theme=github" />
+</a>
+
+<a href="https://github.com/xusenlin/cdp-ui">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xusenlin&repo=cdp-ui&theme=github" />
+</a>
