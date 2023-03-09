@@ -15,7 +15,7 @@
 </div>
 
 <a href="https://github.com/xusenlin/imgo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xusenlin&repo=imgo&theme=github" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xusenlin&repo=terminal-bot&theme=github" />
 </a>
 
 <a href="https://github.com/xusenlin/cdp-ui">
