@@ -14,7 +14,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xusenlin&theme=github">
 </div>
 
-<a href="https://github.com/xusenlin/imgo">
+<a href="https://github.com/xusenlin/terminal-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xusenlin&repo=terminal-bot&theme=github" />
 </a>
 
