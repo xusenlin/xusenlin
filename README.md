@@ -6,8 +6,6 @@
 
 
 -  SenLin: [https://xusenlin.com](https://xusenlin.com)
--  Languages : golang / (html、css、javascript、typescript)
-
 
 <div style="display:flex">
   <img src = "https://github-readme-stats.vercel.app/api?username=xusenlin&count_private=true&show_icons=true&theme=github&line_height=40">
