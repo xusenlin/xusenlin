@@ -6,7 +6,7 @@
 
 
 -  SenLin: [https://xusenlin.com](https://xusenlin.com)
--  Languages : golang / javascript / php
+-  Languages : golang / (html、css、javascript、typescript)
 
 
 <div style="display:flex">
