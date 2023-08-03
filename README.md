@@ -16,6 +16,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xusenlin&repo=terminal-bot&theme=github" />
 </a>
 
-<a href="https://github.com/xusenlin/chatGPT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xusenlin&repo=chatGPT&theme=github" />
+<a href="https://github.com/xusenlin/photo-album">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xusenlin&repo=photo-album&theme=github" />
 </a>
