@@ -19,3 +19,15 @@
 <a href="https://github.com/xusenlin/react-ant-ui-admin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xusenlin&repo=react-ant-ui-admin&theme=github" />
 </a>
+
+<a href="https://github.com/xusenlin/ai-assistant">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xusenlin&repo=ai-assistant&theme=github" />
+</a>
+
+<a href="https://github.com/xusenlin/photo-album">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xusenlin&repo=photo-album&theme=github" />
+</a>
+
+<a href="https://github.com/xusenlin/shadcn-ui-admin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xusenlin&repo=shadcn-ui-admin&theme=github" />
+</a>
