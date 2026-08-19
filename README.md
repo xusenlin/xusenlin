@@ -1,5 +1,5 @@
 
 
-# Wumu 🌱  
+# Selwyn 🌱  
 
-###  Hi，我是 wumu，目前在写前端，业余也折腾 GOLANG / PHP / PYTHON，热爱开源和新技术。
+###  Hi, I'm Selwyn (xusenlin) — building things on the frontend, tinkering with Go, PHP, and Python on the side. Currently independent, open to interesting problems.
