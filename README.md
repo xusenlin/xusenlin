@@ -12,4 +12,6 @@ iOS client for [Workavera](https://github.com/xusenlin/workavera), a self-hosted
 
 Android client for [Workavera](https://github.com/xusenlin/workavera), a self-hosted AI team workspace. Built with Kotlin and Jetpack Compose, it connects to a server you run yourself.
 
+## [Workavera Sandbox](https://github.com/xusenlin/workavera-sandbox)
 
+Per-user Docker sandbox image for [Workavera](https://github.com/xusenlin/workavera): Ubuntu with Python, Node.js, document, OCR, and data tools, and CJK fonts, for the Chat assistant to run commands in.
